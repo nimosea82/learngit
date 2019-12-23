@@ -3,3 +3,4 @@ Git is free software GPL.
 Git has a mutable index called stage.
 master change
 feature1 change
+dev change
