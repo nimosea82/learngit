@@ -5,3 +5,4 @@ master change
 feature1 change
 dev change
 dev git status
+dev git company change
