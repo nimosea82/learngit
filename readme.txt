@@ -6,3 +6,4 @@ feature1 change
 dev change
 dev git status
 dev git company change
+中文修改1
