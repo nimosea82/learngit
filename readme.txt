@@ -12,3 +12,5 @@ dev git company change
 中文修改4
 中文修改5
 中文修改6
+中文修改7
+Linux系统git测试
